@@ -9,7 +9,7 @@ ExposurePlus is now less of a hassle to use as the one major usability hurdle ha
 * Fixed the issue when avatar scale is small or large
 * Reorganized and simplified the main menu of ExposurePlus
 * Added a button to reset all adjustments to default values
-* Changed the instructional messages to reflect the improvements to camera refresh
+* Changed the instructional messages to reflect changes to the workaround
 * Improved image quality of Local Contrast
 * Tweaked and fine-tuned the the dynamic tone mapping algorithm to improve out-of-the-box lighting with default settings
 
