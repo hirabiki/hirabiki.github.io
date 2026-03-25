@@ -1,6 +1,6 @@
 ## ExposurePlus Version History
 
-### 1.1.1 - 2026/03/24
+### 1.1.1 - 2026/03/25
 
 * Improved auto exposure handling in brightly-lit worlds
 * Fixed the issue of Local Contrast being too weak in dark areas
