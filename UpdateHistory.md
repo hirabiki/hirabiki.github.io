@@ -1,5 +1,11 @@
 ## ExposurePlus Version History
 
+### 1.1.1 - 2026/03/24
+
+* Improved auto exposure handling in brightly-lit worlds
+* Fixed the issue of Local Contrast being too weak in dark areas
+* Increased Local Contrast strength and improved the rendering of highlights
+
 ### 1.1.0 - 2026/03/24
 
 ExposurePlus is now less of a hassle to use as the one major usability hurdle has been mitigated. It can be used in mirrors without having to manually re-enable auto exposure functionality.
